@@ -1,0 +1,2 @@
+animelist.csv filter=lfs diff=lfs merge=lfs -text
+Data/animelist.csv filter=lfs diff=lfs merge=lfs -text
